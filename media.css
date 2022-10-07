@@ -1,0 +1,64 @@
+@media screen and (max-height: 740px) {
+
+    #landin{
+        font-size: 28px;
+    }
+    #gb{
+        font-size: 25px;
+    }
+    #grad_down{
+        font-size: 48px;
+    }
+    #grad_down-web{
+        font-size: 49px;
+    }
+
+    .card1{
+        height:300px;
+        width: 240px;
+
+    } 
+    .card2{
+        height:300px;
+        width: 240px;
+    }
+    .gradient-wrapper{
+        scale: 0.9;
+    }
+}
+
+
+@media screen and (max-width:1380px){   
+    .logo span{
+        font-size: 28px;
+    }
+}@media screen and (max-width:1300px){   
+    .logo span{
+        font-size: 26px;
+    }
+}
+@media screen and (max-width:1250px){   
+    .logo span{
+        font-size: 24px;
+    }
+    .unic{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width:1170px){   
+    .logo span{
+        font-size: 22px;
+    }
+    .unic{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:1050px){   
+    .logo span{
+        font-size: 20px;
+    }
+    .unic{
+        font-size: 12px;
+    }
+}
